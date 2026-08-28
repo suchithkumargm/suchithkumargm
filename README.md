@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Suchith Kumar G M 👋</h1>
+<h1 align="center">Hi, I'm Suchith Kumar 👋</h1>
 <h3 align="center">Full Stack Developer building in high-regulation fintech systems</h3>
 
 <p align="center">
