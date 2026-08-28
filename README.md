@@ -53,15 +53,6 @@ At **IG Group**, I work on systems that move real client money at scale:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=suchithkumargm&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suchithkumargm&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### 📫 Reach Me
 
 [LinkedIn](https://www.linkedin.com/in/suchithkumargm) · [LeetCode](https://leetcode.com/u/suchithkumargm) · suchithkumargm@gmail.com
